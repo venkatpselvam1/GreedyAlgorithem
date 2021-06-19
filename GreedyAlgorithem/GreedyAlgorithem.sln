@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_JobSequence", "003_JobS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004_JobSequence_Disjoint", "004_JobSequence_Disjoint\004_JobSequence_Disjoint.csproj", "{52C61E7C-A60D-493C-BA9F-EB92358E3AFF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005_JobSequence_Loss_Minimization", "005_JobSequence_Loss_Minimization\005_JobSequence_Loss_Minimization.csproj", "{16BCD0D3-B724-4103-A96E-484FC641E2B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,6 +49,10 @@ Global
 		{52C61E7C-A60D-493C-BA9F-EB92358E3AFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52C61E7C-A60D-493C-BA9F-EB92358E3AFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52C61E7C-A60D-493C-BA9F-EB92358E3AFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16BCD0D3-B724-4103-A96E-484FC641E2B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16BCD0D3-B724-4103-A96E-484FC641E2B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16BCD0D3-B724-4103-A96E-484FC641E2B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16BCD0D3-B724-4103-A96E-484FC641E2B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -56,6 +62,7 @@ Global
 		{682679B0-0FB1-4F01-B9B4-B4A5DA1366D4} = {CC4D01F9-9EE6-4DF7-8AE4-7B0C4F9D276B}
 		{B9926AAB-1B4D-493B-97AC-05921ED9D8F5} = {CC4D01F9-9EE6-4DF7-8AE4-7B0C4F9D276B}
 		{52C61E7C-A60D-493C-BA9F-EB92358E3AFF} = {CC4D01F9-9EE6-4DF7-8AE4-7B0C4F9D276B}
+		{16BCD0D3-B724-4103-A96E-484FC641E2B2} = {CC4D01F9-9EE6-4DF7-8AE4-7B0C4F9D276B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {67BD6704-9D0A-444E-AAB5-CF2BDD8A0D4C}
