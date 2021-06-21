@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007_Huffman_Coding", "007_H
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008_Efficient_Huffman_Coding", "008_Efficient_Huffman_Coding\008_Efficient_Huffman_Coding.csproj", "{90DCAEEC-084E-46B2-A1AD-08F98C19FAD0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009_Huffman_Decoding", "009_Huffman_Decoding\009_Huffman_Decoding.csproj", "{F3A51E34-2CF3-4EDA-9ABA-5995A1F3BD7D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -71,6 +73,10 @@ Global
 		{90DCAEEC-084E-46B2-A1AD-08F98C19FAD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90DCAEEC-084E-46B2-A1AD-08F98C19FAD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90DCAEEC-084E-46B2-A1AD-08F98C19FAD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3A51E34-2CF3-4EDA-9ABA-5995A1F3BD7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3A51E34-2CF3-4EDA-9ABA-5995A1F3BD7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3A51E34-2CF3-4EDA-9ABA-5995A1F3BD7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3A51E34-2CF3-4EDA-9ABA-5995A1F3BD7D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -84,6 +90,7 @@ Global
 		{0C63A282-C6E5-48FF-A624-EA54040C06DF} = {CC4D01F9-9EE6-4DF7-8AE4-7B0C4F9D276B}
 		{0EF8FCBD-6024-4A0A-995C-E52E60944168} = {CC4D01F9-9EE6-4DF7-8AE4-7B0C4F9D276B}
 		{90DCAEEC-084E-46B2-A1AD-08F98C19FAD0} = {CC4D01F9-9EE6-4DF7-8AE4-7B0C4F9D276B}
+		{F3A51E34-2CF3-4EDA-9ABA-5995A1F3BD7D} = {CC4D01F9-9EE6-4DF7-8AE4-7B0C4F9D276B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {67BD6704-9D0A-444E-AAB5-CF2BDD8A0D4C}

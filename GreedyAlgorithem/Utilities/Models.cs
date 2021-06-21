@@ -22,6 +22,12 @@ namespace Utilities
         {
             Print(this, string.Empty);
         }
+        public Dictionary<char, string> GetDict()
+        {
+            var dict = new Dictionary<char, string>();
+            PopulateDict(this, string.Empty, dict);
+            return dict;
+        }
         private void Print(HuffmanCodingNode node, string s)
         {
             if (node == null)
@@ -36,6 +42,22 @@ namespace Utilities
 
             Print(node.Left, s + "0");
             Print(node.Right, s + "1");
+        }
+        private void PopulateDict(HuffmanCodingNode node, string s, Dictionary<char, string> dict)
+        {
+            if (node == null)
+            {
+                return;
+            }
+            if (node.Left == null && node.Right == null && node.Ch != DefautChar)
+            {
+                Console.WriteLine(node.Ch + " : " + s);
+                dict.Add(node.Ch, s);
+                return;
+            }
+
+            PopulateDict(node.Left, s + "0", dict);
+            PopulateDict(node.Right, s + "1", dict);
         }
     }
     public class Comparer : IComparer<HuffmanCodingNode>
