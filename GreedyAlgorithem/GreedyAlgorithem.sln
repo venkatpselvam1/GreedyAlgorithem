@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31112.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreedyAlgorithem", "GreedyAlgorithem\GreedyAlgorithem.csproj", "{AA848851-AC2C-4FE8-9349-1AC4C57E8D55}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "StandardGreedyAlgorithem", "StandardGreedyAlgorithem", "{CC4D01F9-9EE6-4DF7-8AE4-7B0C4F9D276B}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "001_StandardGreedyAlgorithem", "001_StandardGreedyAlgorithem", "{CC4D01F9-9EE6-4DF7-8AE4-7B0C4F9D276B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActivitySelectionProblem", "ActivitySelectionProblem\ActivitySelectionProblem.csproj", "{887ED72B-21EB-47EE-90D6-08D8D3FD96EA}"
 EndProject
@@ -26,6 +26,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008_Efficient_Huffman_Coding", "008_Efficient_Huffman_Coding\008_Efficient_Huffman_Coding.csproj", "{90DCAEEC-084E-46B2-A1AD-08F98C19FAD0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009_Huffman_Decoding", "009_Huffman_Decoding\009_Huffman_Decoding.csproj", "{F3A51E34-2CF3-4EDA-9ABA-5995A1F3BD7D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "002_Problems", "002_Problems", "{69C5B94E-FE22-42FB-A9BE-8D9DC8297875}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
