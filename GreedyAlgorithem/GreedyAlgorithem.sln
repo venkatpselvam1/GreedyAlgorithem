@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_JumpGame1", "003_JumpGa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004_LongestPalindrome", "004_LongestPalindrome\004_LongestPalindrome.csproj", "{CFD71F2F-E414-4058-9BB5-BE83CE2AF016}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005_WildcardMatching", "005_WildcardMatching\005_WildcardMatching.csproj", "{7395AF80-6866-437D-A6E5-9AA2D5BCA863}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -103,6 +105,10 @@ Global
 		{CFD71F2F-E414-4058-9BB5-BE83CE2AF016}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CFD71F2F-E414-4058-9BB5-BE83CE2AF016}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CFD71F2F-E414-4058-9BB5-BE83CE2AF016}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7395AF80-6866-437D-A6E5-9AA2D5BCA863}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7395AF80-6866-437D-A6E5-9AA2D5BCA863}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7395AF80-6866-437D-A6E5-9AA2D5BCA863}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7395AF80-6866-437D-A6E5-9AA2D5BCA863}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -121,6 +127,7 @@ Global
 		{786E80CF-204B-460E-9E44-DBC64DA0D64C} = {69C5B94E-FE22-42FB-A9BE-8D9DC8297875}
 		{29A3D98C-2394-4B27-899D-0AB8BCBBD8EB} = {69C5B94E-FE22-42FB-A9BE-8D9DC8297875}
 		{CFD71F2F-E414-4058-9BB5-BE83CE2AF016} = {69C5B94E-FE22-42FB-A9BE-8D9DC8297875}
+		{7395AF80-6866-437D-A6E5-9AA2D5BCA863} = {69C5B94E-FE22-42FB-A9BE-8D9DC8297875}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {67BD6704-9D0A-444E-AAB5-CF2BDD8A0D4C}
