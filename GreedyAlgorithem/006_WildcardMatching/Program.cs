@@ -45,6 +45,7 @@ namespace _006_WildcardMatching
             var b = "*a*b";
             var ans = sln.IsMatch(a, b);
             Console.WriteLine(ans);
+            var s = int.MaxValue;
         }
         public class Solution
         {

@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005_WildcardMatching", "005
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006_WildcardMatchingDynamic", "006_WildcardMatching\006_WildcardMatchingDynamic.csproj", "{EB1328CF-D116-46F9-9DEE-EE131A11F31D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007_JumpGame2", "007_JumpGame2\007_JumpGame2.csproj", "{E7AA1DF2-FEAE-410E-B53C-7415C6441B3A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -115,6 +117,10 @@ Global
 		{EB1328CF-D116-46F9-9DEE-EE131A11F31D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB1328CF-D116-46F9-9DEE-EE131A11F31D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB1328CF-D116-46F9-9DEE-EE131A11F31D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7AA1DF2-FEAE-410E-B53C-7415C6441B3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7AA1DF2-FEAE-410E-B53C-7415C6441B3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7AA1DF2-FEAE-410E-B53C-7415C6441B3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7AA1DF2-FEAE-410E-B53C-7415C6441B3A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -135,6 +141,7 @@ Global
 		{CFD71F2F-E414-4058-9BB5-BE83CE2AF016} = {69C5B94E-FE22-42FB-A9BE-8D9DC8297875}
 		{7395AF80-6866-437D-A6E5-9AA2D5BCA863} = {69C5B94E-FE22-42FB-A9BE-8D9DC8297875}
 		{EB1328CF-D116-46F9-9DEE-EE131A11F31D} = {69C5B94E-FE22-42FB-A9BE-8D9DC8297875}
+		{E7AA1DF2-FEAE-410E-B53C-7415C6441B3A} = {69C5B94E-FE22-42FB-A9BE-8D9DC8297875}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {67BD6704-9D0A-444E-AAB5-CF2BDD8A0D4C}
